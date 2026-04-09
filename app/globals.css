@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 245, 245, 247;
+  --background-rgb: 6, 6, 8;
+}
+
+html {
+  overflow-x: hidden;
+  background-color: #060608;
+  color: #F5F5F7;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
